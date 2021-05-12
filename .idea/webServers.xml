@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed25930d-e40f-46bf-ac39-9b6e85be27a4" name="webdev-groceries" url="http://webdev.cse.msu.edu/~gargaksh/grocery-app">
+        <fileTransfer rootFolder="/user/gargaksh/classweb/grocery-app" accessType="SFTP" host="arctic.cse.msu.edu" port="22" sshConfigId="1e1e3e04-801d-4e41-bcab-5d6ff110fc63" sshConfig="gargaksh@arctic.cse.msu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
